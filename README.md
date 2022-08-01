@@ -26,7 +26,7 @@
 # 🍌 Repo Description 
 
 1. This repo is my workbook notes from the investigation of $web3 \ Security \ Concepts$
-2. Access the book from [Books](#books)
+2. Access the book from [Section - Books](#books)
 3. Since these areas being actively investigated, the concepts and written matter can be completely removed or edited at any time. 
    
 ## Goal 
@@ -65,7 +65,7 @@ graph TD
     %% A3 Subdivisions
     A3 --> A31(ZKP<br>Zero<br>Knowledge<br>Proofs)
     A31 --> A32(zk-sNarks)
-    A31 --> A32(zk-sTarks)
+    A31 --> A33(zk-sTarks)
 
 ```
 
