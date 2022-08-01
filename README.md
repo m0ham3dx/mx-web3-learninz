@@ -47,6 +47,7 @@ graph TD
     %% Main Tree
     A[mx-web3-learninz <br> Repo] --> A1(Development<br>Environment)
     A --> A2(Development<br>Languages)
+    A --> A3(Technologies)
 
     %% A1 Subviisions 
     A1 --> A1A(Foundry)
@@ -58,6 +59,11 @@ graph TD
     A2A --> A2AA(Yul)
     A2A --> A2AB(Huff)
     A2 --> A2B(Rust)
+
+    %% A3 Subdivisions
+    A3 --> A31(ZKP<br>Zero<br>Knowledge<br>Proofs)
+    A31 --> A32(zk-sNarks)
+    A31 --> A32(zk-sTarks)
 
 ```
 
