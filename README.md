@@ -25,7 +25,9 @@
 
 # 🍌 Repo Description 
 
-Workbook and web3 security related notes 
+1. This repo is my workbook notes from the investigation of $web3 \ Security \ Concepts$
+2. Access the book from [Books](#books)
+3. Since these areas being actively investigated, the concepts and written matter can be completely removed or edited at any time. 
    
 ## Goal 
 
@@ -69,7 +71,7 @@ graph TD
 
 # Books 
 
-*Image link map* - Click box
+*Image link map* - Click relevant box to access ebook
 
 ```mermaid 
 graph TD
