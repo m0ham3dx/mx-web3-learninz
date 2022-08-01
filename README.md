@@ -19,48 +19,23 @@
 
 1. [🍌 Repo Description](#-repo-description)
    1. [Goal](#goal)
-   2. [Directories](#directories)
-   3. [Tools](#tools)
 2. [Concepts Investigation Plan](#concepts-investigation-plan)
 3. [Books](#books)
 4. [🍌 Disclaimer](#-disclaimer)
 
 # 🍌 Repo Description 
 
-1. This repo is a workbook of all my web3 related learning endeavors 
-2. It can also include concepts that are not directly related to web3 , but has some relationship with them
+Workbook and web3 security related notes 
    
 ## Goal 
 
-1. Get better at bug hunting.
-2. Understand Secure Engineering.
-3. Build web3 related security tools.
-
-## Directories
-
 ```mermaid
  %%{init: {'theme':'dark', 'themeVariables':{'textColor':'#FBB454', 'nodeBorder':'#00D7FF', 'lineColor':'#00FFAB'}}}%%
- graph LR
-    A[Repo <br> Structure] -->|Make<br>Notes| A1(Notes)
-    A -->|Draft| A2(Rendered <br> Notebook)
-    A1 ==> A2
-    click A1 href "https://github.com/m0ham3dx/mx-web3-learninz/tree/main/ld" "Notes Dir" _blank
-    click A2 href "https://github.com/m0ham3dx/mx-web3-learninz/tree/main/ebuk" "Book Dir" _blank
+ graph TD
+    A[Goal] --> A1(Bug<br>Hunting<br>Mastery)
+    A --> A2(Secure<br>Engineering)
+    A --> A3(Build<br>Security<br>tools)    
 ```
-
-Explanation of what the directories are 
-
-1. [`/ld/`](./ld/) - Each project in seperate subfolder for tracking
-2. [`/ebuk/`](./ebuk/) - Contents of my MD notebook
-
-## Tools 
-
-Stuff I use all the time when working on this repo 
-
-N | URL | Description
-|:--:|:--:|:--:|
-1 | [Mermaid Live](https://mermaid.live/) | Live mermaid wysiwyg editor for diarams code generation 
-2 | [Mermaid JS](https://mermaid-js.github.io/) | Reference Manual 
 
 # Concepts Investigation Plan 
 
