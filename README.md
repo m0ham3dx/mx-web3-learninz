@@ -74,7 +74,7 @@ graph TD
 
     %% URL from image
     click A1 href "https://m0ham3dx-n00b-learnin.on.fleek.co/" "Click" _blank
-    click A2 href "https://mx-web3-learninz.pages.dev/" "Click" _blank
+    click A2 href "https://mx-web3-learninz-internal.pages.dev/" "Click" _blank
 ```
 
 $Cloudflare \ Pages \ is \ a\ much\ faster\ than\ fleek$
