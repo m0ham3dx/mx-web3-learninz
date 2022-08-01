@@ -15,7 +15,14 @@
 </a>
 </p>
 
-<h1>TOC</h1>
+<p align="center">
+<a href="https://twitter.com/m0ham3dxx" target="_blank">
+<img src="./img/al.gif">
+</a>
+</p>
+
+
+<h1 align="center">TOC</h1>
 
 1. [🍌 Repo Description](#-repo-description)
    1. [Goal](#goal)
@@ -23,6 +30,7 @@
 3. [Books](#books)
 4. [🍌 Disclaimer](#-disclaimer)
 
+---
 # 🍌 Repo Description 
 
 1. This repo is my workbook notes from the investigation of $web3 \ Security \ Concepts$
