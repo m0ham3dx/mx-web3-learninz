@@ -28,7 +28,8 @@
    1. [Goal](#goal)
 2. [Concepts Investigation Plan](#concepts-investigation-plan)
 3. [Books](#books)
-4. [🍌 Disclaimer](#-disclaimer)
+4. [Regarding Contributions](#regarding-contributions)
+5. [🍌 Disclaimer](#-disclaimer)
 
 ---
 # 🍌 Repo Description 
@@ -94,6 +95,11 @@ graph TD
 ```
 
 $Cloudflare \ Pages \ is \ a\ much\ faster\ than\ fleek$
+
+# Regarding Contributions 
+
+If you have any opinions on the content, please add it as an issue for further discussion. I will add it to the book crediting you based on identification information you have supplied.
+
 
 # 🍌 Disclaimer 
 
